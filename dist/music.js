@@ -6,7 +6,7 @@ const ap = new APlayer({
     preload: 'auto',
     loop: 'all',
     volume: 0.7,
-   
+    
     audio: [
         {
             name: '晚安',
