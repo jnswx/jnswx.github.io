@@ -4,6 +4,7 @@ const ap = new APlayer({
     fixed: true,
     autoplay: true,
     preload: 'auto',
+    order: 'random',
     loop: 'all',
     volume: 0.7,
     
